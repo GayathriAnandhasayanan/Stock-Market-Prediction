@@ -1,0 +1,9 @@
+fastapi>=0.100
+streamlit>=1.24.1
+pandas>=1.5.3
+psycopg2>=2.9.6
+tensorflow>=2.12.0
+yfinance>=0.2.26
+plotly>=5.15.0
+scikit-learn>=1.2.0
+finnhub-python>=2.4.18
