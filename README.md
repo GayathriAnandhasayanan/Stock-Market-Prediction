@@ -79,8 +79,3 @@ To run the application locally, follow these steps:
    - Click on a particular stock to view its details and technical analysis.
    - The price prediction for the stock will also be displayed.
    - You can compare similar stocks based on technical analysis.
-
-## Contribution
-- Amey Gawade
-- Amir Mobayen
-- Gayathri Anandhasayanan
